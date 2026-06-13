@@ -1,0 +1,20 @@
+Month,Service,Cost
+2026-04-01,AWS CloudShell,0.0
+2026-04-01,AWS Glue,0.0
+2026-04-01,AWS Key Management Service,0.0
+2026-04-01,AWS Lambda,0.0
+2026-04-01,AWS Secrets Manager,3.5e-05
+2026-04-01,EC2 - Other,0.0081237037
+2026-04-01,Amazon Elastic Compute Cloud - Compute,0.0974883372
+2026-04-01,Amazon Simple Notification Service,0.0
+2026-04-01,Amazon Simple Queue Service,0.0
+2026-04-01,Amazon Simple Storage Service,0.0001700348
+2026-04-01,Amazon Virtual Private Cloud,0.04257916
+2026-04-01,AmazonCloudWatch,0.0
+2026-04-01,Tax,0.03
+2026-05-01,AWS Glue,0.0
+2026-05-01,Amazon Simple Storage Service,4.0005e-05
+2026-05-01,Tax,0.0
+2026-06-01,AWS Glue,0.0
+2026-06-01,Amazon Simple Storage Service,5e-06
+2026-06-01,Tax,0.0
