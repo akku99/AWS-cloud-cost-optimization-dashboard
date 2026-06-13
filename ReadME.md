@@ -7,7 +7,7 @@ This project analyzes AWS Cost Explorer data using Python, SQL, and Power BI to 
 
 ---
 
-## 📌 Business Problem
+## 🎯 Business Problem
 Key challenges:
 -Rising cloud expenditure
 -Lack of visibility into service-level costs
@@ -31,14 +31,14 @@ Power BI Dashboard
 
 <img width="1280" height="720" alt="Architecture" src="https://github.com/user-attachments/assets/86140be8-5c67-43c3-aea6-0a685bc38758" />
 
-## 🚀 Technology Stack
-Tool	          Purpose
--Python	            -ETL & Analysis
--Pandas	            -Data Processing
--AWS Cost Explorer API	      -Cost Data
--SQLite	            -Data Storage
--Power BI	            -Visualization
--GitHub	            -Version Control
+## 🛠️  Technology Stack
+Tools and their Purpose
+1. Python -  ETL & Analysis
+2. Pandas -  Data Processing
+3. AWS Cost Explorer API - Cost Data
+4. SQLite -  Data Storage
+5. Power BI - Visualization
+6. GitHub -  Version Control
 
 
 ## 🚀 Key Metrics
