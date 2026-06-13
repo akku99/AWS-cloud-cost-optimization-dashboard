@@ -50,13 +50,18 @@ Month-over-Month Growth
 Pareto Analysis
 
 ## 📸 Dashboard Preview
-🔹Executive Summary
+🔹Executive Overview
+<img width="1303" height="730" alt="overview" src="https://github.com/user-attachments/assets/4caaf749-4f37-45e5-9876-11a9b386ce79" />
 
-🔹Cost Breakdown
+🔹Individual Service Share %
+<img width="427" height="222" alt="Service share %" src="https://github.com/user-attachments/assets/8414c782-3b1b-4ff2-943a-6c85d5b4a274" />
 
 🔹Pareto Analysis
+<img width="438" height="421" alt="cumulative% of service_cost(pareto analysis)" src="https://github.com/user-attachments/assets/bb024b4b-2749-4f18-9978-a742163cf66e" />
 
-🔹Forecasting
+🔹Total Cost vs Service Sjare %
+<img width="432" height="430" alt="total cost vs service share %" src="https://github.com/user-attachments/assets/b2f0402a-b243-41db-aaa8-f1da8800ecd9" />
+
 
 ## 🚀 Key Insights
 
